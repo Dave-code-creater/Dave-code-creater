@@ -2,7 +2,7 @@
 
 I'm a boring full stack developper. I hope i can make something that helpfull for everyone to use
 
-### Check out my website [https://dave-code-creater.github.io/dave.portfolio.github.io/](https://dave-code-creater.github.io/dave.portfolio.github.io/)
+### Check out my website [https://dave-code-creater.github.io/blog/en/](https://dave-code-creater.github.io/blog/en/)
 
 **I love working with**
 
