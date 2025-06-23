@@ -37,7 +37,7 @@ I'm a boring full stack developper. I hope i can make something that helpfull fo
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="www.linkedin.com/in/tan-dat-ta">
+  <a href="[www.linkedin.com/in/tan-dat-ta](https://www.linkedin.com/in/tan-dat-ta/)">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
